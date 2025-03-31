@@ -11,5 +11,5 @@ def change():
     print("Pesos:")
     print(Pesos)
     Centavos = int((Vuelto-Pesos)*100)
-    print("Centavos")
+    print("Centavos:")
     print(Centavos)
