@@ -13,4 +13,3 @@ def change():
     Centavos = int((Vuelto-Pesos)*100)
     print("Centavos")
     print(Centavos)
-change() 
