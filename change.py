@@ -8,7 +8,7 @@ def change():
     print(f"\nVuelto\n")
     Vuelto = money-expense
     Pesos = int(Vuelto)
-    print("Pesos")
+    print("Pesos:")
     print(Pesos)
     Centavos = int((Vuelto-Pesos)*100)
     print("Centavos")
